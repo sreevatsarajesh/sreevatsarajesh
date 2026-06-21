@@ -39,7 +39,6 @@ Cybersecurity Enthusiast
 
 ![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight)
 
----
 
 ## 🚀 Current Projects
 
