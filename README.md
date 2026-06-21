@@ -1,10 +1,14 @@
 ## 💫 About Me
 Mathematics & Computing @ MIT Manipal
+
 Full Stack Developer
+
 ML Researcher (YOLO-based Object Detection)
-SITER Academy Internship
+
 React, Flutter, Python, FastAPI
+
 PyTorch, TensorFlow, OpenCV
+
 Cybersecurity Enthusiast
 
 ## 🌐 Socials
