@@ -37,7 +37,7 @@ Cybersecurity Enthusiast
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight)
+![](https://github-profile-trophy.vercel.app/?username=sreevatsarajesh&theme=tokyonight)
 
 
 ## 🚀 Current Projects
