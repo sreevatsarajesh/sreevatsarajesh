@@ -20,22 +20,33 @@ Cybersecurity Enthusiast
 ## Tech Stack 
 # Languages 
 > C
+> 
 > C++
+> 
 > Java
+> 
 > Python
+> 
 > Javascript
+> 
 > SQL
+> 
 > Bash
 
 ## Machine Learning
 > YOLO - using both ultralytics and paddlepaddle
+> 
 > Vision Transformer
+> 
 > Numpy and Pandas
+> 
 > Pytorch and Matplotlib
 
 ## Others
 > Git
+> 
 > Linux
+> 
 > Unix (basically mac system)
 
 ## 📊 GitHub Stats
