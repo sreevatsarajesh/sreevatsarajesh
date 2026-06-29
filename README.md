@@ -49,15 +49,6 @@ Cybersecurity Enthusiast
 > 
 > Unix (basically mac system)
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=sreevatsarajesh&theme=tokyonight&show_icons=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=sreevatsarajesh&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sreevatsarajesh&layout=compact&theme=tokyonight)
-
----
 ## 🌐 Socials
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_vat_sa_/)
