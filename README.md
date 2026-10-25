@@ -1,53 +1,5 @@
 ## About Me
-Mathematics & Computing @ MIT Manipal
-
-Full Stack Developer
-
-ML Researcher (YOLO-based Object Detection)
-
-React, Flutter, Python, FastAPI
-
-PyTorch, TensorFlow, OpenCV
-
-Cybersecurity Enthusiast
-
-## Current Projects
-
-- YOLO Object Detection Research
-- Cyber Security works
-- Vision Transformer
-
-## Tech Stack 
-# Languages 
-> C
-> 
-> C++
-> 
-> Java
-> 
-> Python
-> 
-> Javascript
-> 
-> SQL
-> 
-> Bash
-
-## Machine Learning
-> YOLO - using both ultralytics and paddlepaddle
-> 
-> Vision Transformer
-> 
-> Numpy and Pandas
-> 
-> Pytorch and Matplotlib
-
-## Others
-> Git
-> 
-> Linux
-> 
-> Unix (basically mac system)
+Check out my portfolio for more details: https://sreevatsarajesh.github.io/sreevatsa_portfolio/
 
 ## 🌐 Socials
 
